@@ -1,0 +1,4 @@
+#Get the absolute path of the current working directory
+current_dir=$(pwd)
+#print ot path to working directory
+echo "The path of the current working directory is: $current_dir"
